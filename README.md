@@ -8,6 +8,8 @@
 8. Запустите в профилизаторе файл filter_with_filename.py, сделайте скриншот со временем выполнения этого файла. Полученный скриншот, а также объяснение полученных результатов добавьте в файл README.MD. Также в файл README.MD с помощью wiki-разметки добавьте все изображения до преобразования и после.
 ![image](https://user-images.githubusercontent.com/71918545/143187112-7f81d038-b0de-4c81-900a-87d28dfac1c7.png)
 ![image](https://user-images.githubusercontent.com/71918545/143187134-24146965-297d-4bff-9f3b-1953658fff2c.png)
+![This is an image](https://user-images.githubusercontent.com/71918545/143188042-ec34e1aa-ce29-4a84-8383-e082115db64b.jpg)
+![This is an image](https://user-images.githubusercontent.com/71918545/143188096-3d251aea-281f-47d5-9e71-72f688bb2115.jpg)
 9. К выделенным функциям, допишите документацию и doc-тесты в формате: docstring.
 10. Проверьте запуск doc-тестов в PyCharm. Сделайте их скриншоты.
 11. Закомитьте все изменения на github. Скриншоты doc-тесты с соответствующими комментариями прикрепите в файл README.MD.
